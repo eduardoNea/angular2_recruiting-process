@@ -1,0 +1,34 @@
+{
+  "Pregunta": [
+    {
+      "Respuesta": [
+        "Resp"
+      ]
+    },
+    {
+      "PreguntaCategoria": [
+        "Categoria1",
+        "Categoria2"
+      ]
+    },
+    {
+      "CalidadRespuesta": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+     {
+      "Comentarios": [
+        "Comment"
+      ]
+    },
+    {"Notas":
+    [
+      "Nota"
+    ]
+    }
+  ]
+}

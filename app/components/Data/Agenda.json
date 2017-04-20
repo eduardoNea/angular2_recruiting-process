@@ -1,0 +1,14 @@
+{
+	"NombreCandidato": [
+		"Nombre"
+	],
+	"FechaEjecucion": [
+		"Fecha"
+	],
+	"ResultadoEvaluacion": [
+		"Nombre"
+	],
+	"LinkHistorico": [
+		"Link"
+	]
+}
