@@ -1,6 +1,6 @@
 import {Component, View, NgFor} from 'angular2/angular2';
-import {RouterLink} from 'angular2/router';
-import {postcomponent} from '.components/Historic/post.component'
+import {RouterLink} from './angular2/router';
+import {postcomponent} from '.components/Historic/postcomponent'
 import '.Historic/rxjs-operators';
 import './rxjs-operators';
 
